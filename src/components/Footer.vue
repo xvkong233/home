@@ -26,6 +26,7 @@
           <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
             {{ siteIcp }}
           </a>
+          <img src="https://websitexvkong.s3.bitiful.net/beianicon.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ru1jORQ1CcWiBVZ0NLqqa51i%2F20250311%2F%2Fs3%2Faws4_request&X-Amz-Date=20250311T024656Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=2fcd90ac4a1f5e49c6841ec4d95b44243ce524927295c45a6e664fde7ba17c72" width="20"/> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=32048202001165" rel="noreferrer" target="_blank">苏公网安备32048202001165号</a>
         </span>
       </div>
       <div v-else class="lrc">
